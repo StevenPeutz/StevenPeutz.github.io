@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<script src="scripts.js"></script>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<title>browser-processor speed calculator</title>
+</head>
+
+<body onload="ShowInfo();">
+	<h2>test</h2>
+	<h4>browser-processor speed calculator</h4>
+
+	<button type="button" onclick="Bereken(30000002)">Start prime number calculation</button>
+
+	
+	<p>First found prime larger than 30.000.001:</p>
+	<p id="primeGetal"></p>
+
+	<p>Seconds taken by your<b id=browserAndVersion></b> <i>-fill with browsername-</i> browser to display the first prime number larger than 30.000.001:</p>
+	<div id="timeSpent"></div>
+	<br />
+	
+	<hr>
+	<div id="green">
+		<p>Show me my current browser/machine details. <em>(dit wordt jquery accordeon (UI...) dingetje)</em></p>
+		<div id="customInfo"></div>
+	</div>
+</body>
+
+</html>
