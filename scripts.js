@@ -49,39 +49,48 @@ txt= navigator.userAgent;
 document.getElementById("customInfo").innerHTML=txt;
 
 }
-// gevonden code voor timing van resultaat:
+//rock paper scissors against computer
 
-/* Keuze A, 'console.time' functie..
+/*var userChoice = prompt("Do you choose rock, paper or scissors?");
+var computerChoice = Math.random();
+if (computerChoice < 0.34) {
+	computerChoice = "rock";
+} else if(computerChoice <= 0.67) {
+	computerChoice = "paper";
+} else {
+	computerChoice = "scissors";
+} console.log("Computer: " + computerChoice);
 
-var iterations = 1000000;
-console.time('Function #1');
-for(var i = 0; i < iterations; i++ ){
-    functionOne();
+var compare = function(choice1, choice2) {
+if (choice1 === choice2) {
+    return "The result is a tie!";
+    }
+
+else if (choice1 === "rock") {
+    if(choice2 === "scissors") {
+        return "rock wins";
+    }
+    else{
+        return "paper wins";
+    }
+}
+else if (choice1 === "paper") {
+    if(choice2 === "rock") {
+        return "paper wins";
+    }
+    else {
+        return "scissors wins";
+    }
+ }
+ else if (choice1 === "scissors") {
+     if(choice2 === "rock") {
+         return "rock wins";
+        }
+    else {
+        return "scissors wins";
+        }
+    }
 };
-console.timeEnd('Function #1')
-
-console.time('Function #2');
-for(var i = 0; i < iterations; i++ ){
-    functionTwo();
-};
-console.timeEnd('Function #2')
-*/
-
-
-/* op basis van performance functie oid (keuze B, vereist miss workers en dat gebruik niet..)
-
-var t0 = performance.now();
-doSomething();
-var t1 = performance.now();
-console.log("Call to doSomething took " + (t1 - t0) + " milliseconds.")
-*/
-
-
-/* op basis van timestamp (keuze C)
-
-var start = +new Date();  // log start timestamp
-Bereken();
-var end =  +new Date();  // log end timestamp
-var diff = end - start;
+console.log(compare(userChoice, computerChoice));
 */
 
