@@ -45,7 +45,60 @@ li {
 	font: 8pt helvetica;
 }
 .explanation {
-	float: right;
+	/*padding: 0; */
+	text-align: center;
 	margin: 0 0 10px 10px;
 	color: grey;
-	}
+}
+
+/* vanaf hier enkel voor tooltip */
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted skyblue;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 260px;
+    background-color: #555;
+    /*opacity: .33; zorgt voor 'memory' maar toch beter zonder */
+    color: #fff;
+    text-align: left;
+    padding: 7px 0;
+		padding-left: 10px;
+		padding-right: 7px;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: 120%;
+    left: 50%;
+    margin-left: -60px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 2.2s;
+}
+
+/* Tooltip arrow
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+*/
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
