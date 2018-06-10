@@ -17,7 +17,7 @@ This tool simply asks you a question (multipoe choice) about your dataset or res
 Yes. It is all JavaScript so each new question does not require a pageload. You load the page once, and that is all.
 
 **Which hypothesis test are 'included' in this tool?**\
-"t-test\
+"t-Test,\
 "Biserial/Point-Biserial Correlation",\
 "Mann-Whitney Test",\  
 "Wilcoxon Matched-Pairs Test",\
