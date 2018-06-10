@@ -40,4 +40,4 @@ Yes. It is all JavaScript so each new question does not require a pageload. You 
 "Loglinear Analysis",\
 "MANOVA",\
 "Factorial MANOVA",\
-"MANCOVA"\
+"MANCOVA"
