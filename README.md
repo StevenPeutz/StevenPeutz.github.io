@@ -1,7 +1,7 @@
 ## *Javascript wizard for choosing the appropriate statistical test (SPSS, hypothesis testing)*
 
 Either download the files and open index.html with your browser to use locally,  
-or go to https://github.com/stevenpeutz  
+or go to http://stevenpeutz.github.io 
 **or simply run this by visiting https://stevenpeutz.info/7questionsorless**
 
 
