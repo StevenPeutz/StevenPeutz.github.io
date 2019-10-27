@@ -2,7 +2,7 @@
 
 Either download the files and open index.html with your browser to use locally,  
 or **go to http://stevenpeutz.github.io** \
-or simply run this by visiting https://stevenpeutz.info/7questionsorless
+or run this from https://stevenpeutz.info/7questionsorless
 
 
 ### Choosing the appropriate analysis/test for your project is sometimes difficult, often time consuming and always important.
@@ -41,3 +41,5 @@ Yes. It is all JavaScript so each new question does not require a pageload. You 
 "MANOVA",\
 "Factorial MANOVA",\
 "MANCOVA"
+
+Click the following link or go to **http://stevenpeutz.github.io**
