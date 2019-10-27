@@ -11,7 +11,7 @@ or run this from https://stevenpeutz.info/7questionsorless
 
 
 **What does it do?**\
-This tool simply asks you a question (multiple choice) about your dataset or research design. Based on your answer a second questions is asked (again in multiple choice). This continues untill are relevant information is gathered (maximum of 7 questions) about your dataset and research design to tell you which hypothesis test is the correct one. 
+This tool simply asks you a question (multiple choice) about your dataset or research design. Based on your answer a second questions is asked (again in multiple choice). This continues until are relevant information is gathered (maximum of 7 questions) about your dataset and research design to tell you which hypothesis test is the correct one for your project. 
 
 **Is it fast?**  
 Yes. It is all JavaScript so each new question does not require a pageload. You load the page once, and that is all.
