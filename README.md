@@ -2,7 +2,7 @@
 
 ANOVA or Logistic regression? Pearson corrrelation or Spearman's rank? Factorial Repeated Measures ANOVA or
 Factorial Mixed ANOVA? \
-These doubts are what this tool is for.\
+These doubts are what this tool is for.
 
 ### *Javascript wizard for choosing the appropriate statistical test (hypothesis testing)* ###
 
