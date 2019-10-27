@@ -4,7 +4,7 @@ ANOVA or Logistic regression? Pearson corrrelation or Spearman's rank? Factorial
 Factorial Mixed ANOVA? \
 These doubts are what this tool is for.
 
-### *Javascript wizard for choosing the appropriate statistical test (hypothesis testing)* ###
+### Javascript wizard for choosing the appropriate statistical test (hypothesis testing) ###
 
 ## Go to http://stevenpeutz.github.io ## 
 or run this from https://stevenpeutz.info/7questionsorless
