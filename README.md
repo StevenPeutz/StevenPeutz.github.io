@@ -41,4 +41,4 @@ Yes. It is all JavaScript so each new question does not require a pageload. You 
 "Factorial MANOVA",\
 "MANCOVA"
 
-Click the following link or go to **http://stevenpeutz.github.io** to find out which is the correct statistical test for your research design and datatypes.
+Go to **http://stevenpeutz.github.io** to find out which is the correct statistical test for your research design and datatypes.
