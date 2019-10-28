@@ -8,11 +8,11 @@ These doubts are what this tool is for.<br />
 &nbsp;
 ## Go to http://stevenpeutz.github.io ##
 or run this from https://stevenpeutz.info/7questionsorless <br />
-&nbsp;
+<br /> &nbsp; <br />
 
 ### Choosing the appropriate analysis/test for your project is sometimes difficult, often time consuming and always important.
 
-
+<br />
 
 
 **What does it do?**\
