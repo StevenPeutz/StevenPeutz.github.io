@@ -3,12 +3,12 @@
 ANOVA or Logistic regression? Pearson corrrelation or Spearman's rank? Factorial Repeated Measures ANOVA or
 Factorial Mixed ANOVA? \
 These doubts are what this tool is for.
-
+&nbsp
 ### Javascript wizard for choosing the appropriate statistical test (hypothesis testing) ###
-
+<br>
 ## Go to http://stevenpeutz.github.io ## 
 or run this from https://stevenpeutz.info/7questionsorless
-
+&nbsp
 
 ### Choosing the appropriate analysis/test for your project is sometimes difficult, often time consuming and always important.
 
