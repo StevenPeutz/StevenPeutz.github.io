@@ -16,7 +16,8 @@ or run this from https://stevenpeutz.info/7questionsorless <br />
 
 
 **What does it do?**\
-This tool simply asks you a question (multiple choice) about your dataset or research design. Based on your answer a second questions is asked (again in multiple choice). This continues until are relevant information is gathered (maximum of 7 questions) about your dataset and research design to tell you which hypothesis test is the correct one for your project. 
+This tool simply asks you a question (multiple choice) about your dataset or research design. Based on your answer a second questions is asked (again in multiple choice). This continues until are relevant information is gathered (maximum of 7 questions) about your dataset and research design to tell you which hypothesis test is the correct one for your project.<br />
+Full post: https://www.linkedin.com/pulse/statistical-tests-when-use-which-steven-b-peutz <br /> 
 
 **Is it fast?**  
 Yes. It is all JavaScript so each new question does not require a pageload. You load the page once, and that is all.
@@ -47,5 +48,5 @@ Yes. It is all JavaScript so each new question does not require a pageload. You 
 "Factorial MANOVA",\
 "MANCOVA"
 
-Full post: https://www.linkedin.com/pulse/statistical-tests-when-use-which-steven-b-peutz <br />
+
 Go to **http://stevenpeutz.github.io** to find out which is the correct statistical test for your research design and datatypes.
