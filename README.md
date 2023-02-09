@@ -7,7 +7,7 @@ These doubts are what this tool is for.<br />
 ### Javascript wizard for choosing the appropriate statistical test (hypothesis testing) ###
 &nbsp;
 ## -> Go to http://stevenpeutz.github.io ##
-or run this from https://stevenpeutz.info/7questionsorless <br />
+
 <br /> &nbsp; <br />
 
 ### Choosing the appropriate analysis/test for your project is sometimes difficult, often time consuming and always important.
